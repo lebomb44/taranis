@@ -1,0 +1,28 @@
+./en/;Alt.wav;Altitude
+./en/;Dist.wav;Distance from home
+./en/;HE.wav;Heading East
+./en/;HENE.wav;Heading East North East
+./en/;HESE.wav;Heading East South East
+./en/;HN.wav;Heading North
+./en/;HNE.wav;Heading North East
+./en/;HNNE.wav;Heading North North East
+./en/;HNNW.wav;Heading North North West
+./en/;HNW.wav;Heading North West
+./en/;HS.wav;Heading South
+./en/;HSE.wav;Heading South East
+./en/;HSSE.wav;Heading South South East
+./en/;HSSW.wav;Heading South South West
+./en/;HSW.wav;Heading South West
+./en/;HW.wav;Heading West
+./en/;HWNW.wav;Heading West North West
+./en/;HWSW.wav;Heading West South West
+./en/;L23.wav;Turn left a few degrees
+./en/;L45.wav;Turn left about 45 degrees
+./en/;L90.wav;Turn left about 90 degrees
+./en/;L135.wav;Turn left past 90 degrees
+./en/;R0.wav;Hold this direction. Keep calm and carry on.
+./en/;R23.wav;Turn right a few degrees
+./en/;R45.wav;Turn right about 45 degrees
+./en/;R90.wav;Turn right about 90 degrees
+./en/;R135.wav;Turn right past 90 degrees
+./en/;R180.wav;Turn left or right and fly the opposite direction
